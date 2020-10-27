@@ -1,2 +1,2 @@
-# Zafer-G-khan-G-l
+# Zafer-Gokhan-Gul
 Otomatik Kepenk ve Kişi Sensörü
